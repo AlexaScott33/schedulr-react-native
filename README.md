@@ -2,6 +2,10 @@
 
 [Schedulr](https://schedulr.netlify.com/) on the go!
 
+### Demo Account
+username: demo <br />
+password: password
+
 ## Screenshots
 
 Login <br />
